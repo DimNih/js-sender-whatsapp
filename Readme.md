@@ -1,4 +1,4 @@
-# JS drag-and-drop sender Whastapp
+# drag-and-drop sender Whastapp
 
 Proyek ini adalah implementasi dari fitur drag and drop dan uploud file ke whatsapp menggunakan JavaScript.
 
